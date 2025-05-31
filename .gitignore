@@ -2,7 +2,7 @@
 /node_modules
 /public/hot
 /public/storage
-/public/backend/dist
+# /public/backend/dist
 /public/uploads
 /storage/*.key
 /vendor
